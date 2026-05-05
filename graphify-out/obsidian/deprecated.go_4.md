@@ -1,0 +1,20 @@
+---
+source_file: "sdk/pkg/response/deprecated.go"
+type: "code"
+community: "API Context & Response"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/API_Context_&_Response
+---
+
+# deprecated.go
+
+## Connections
+- [[Custum()_1]] - `contains` [EXTRACTED]
+- [[Error()_2]] - `contains` [EXTRACTED]
+- [[OK()_1]] - `contains` [EXTRACTED]
+- [[PageOK()_1]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/API_Context_&_Response

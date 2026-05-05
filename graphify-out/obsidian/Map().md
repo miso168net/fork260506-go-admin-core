@@ -1,0 +1,18 @@
+---
+source_file: "config/config.go"
+type: "code"
+community: "Config Core API"
+location: "L73"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Config_Core_API
+---
+
+# Map()
+
+## Connections
+- [[.Map()_1]] - `calls` [INFERRED]
+- [[config.go]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Config_Core_API
