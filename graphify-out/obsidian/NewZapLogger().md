@@ -1,12 +1,12 @@
 ---
 source_file: "logger/zap.go"
 type: "code"
-community: "Sampling & Extended Logger"
+community: "Async/Sampling/Sanitizer/Zap Combinators"
 location: "L21"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Sampling_&_Extended_Logger
+  - community/Async/Sampling/Sanitizer/Zap_Combinators
 ---
 
 # NewZapLogger()
@@ -25,4 +25,4 @@ tags:
 - [[toZapLevel()]] - `calls` [EXTRACTED]
 - [[zap.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Sampling_&_Extended_Logger
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer/Zap_Combinators

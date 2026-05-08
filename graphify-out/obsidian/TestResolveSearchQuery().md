@@ -1,12 +1,12 @@
 ---
 source_file: "tools/search/query_test.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Search Query Tests"
 location: "L31"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/SDK_Binding_&_Pagination
+  - community/Search_Query_Tests
 ---
 
 # TestResolveSearchQuery()
@@ -16,4 +16,4 @@ tags:
 - [[ResolveSearchQuery()]] - `calls` [INFERRED]
 - [[query_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/INFERRED #community/Search_Query_Tests

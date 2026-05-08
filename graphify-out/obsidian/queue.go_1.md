@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/runtime/queue.go"
 type: "code"
-community: "SDK Application Container"
+community: "SDK Runtime Queue"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Application_Container
+  - community/SDK_Runtime_Queue
 ---
 
 # queue.go
@@ -15,4 +15,4 @@ tags:
 - [[NewQueue()]] - `contains` [EXTRACTED]
 - [[Queue_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Application_Container
+#graphify/code #graphify/EXTRACTED #community/SDK_Runtime_Queue

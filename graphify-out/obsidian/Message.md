@@ -1,12 +1,12 @@
 ---
 source_file: "storage/cache/message.go"
 type: "code"
-community: "Storage Message Stream"
+community: "Cache Message"
 location: "L8"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_Message_Stream
+  - community/Cache_Message
 ---
 
 # Message
@@ -22,4 +22,4 @@ tags:
 - [[.SetValues()]] - `method` [EXTRACTED]
 - [[message.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_Message_Stream
+#graphify/code #graphify/EXTRACTED #community/Cache_Message

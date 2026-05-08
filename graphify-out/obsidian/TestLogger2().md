@@ -1,12 +1,12 @@
 ---
 source_file: "logger/logger_test.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Deprecated/Logger Mixed Tests"
 location: "L29"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Deprecated/Logger_Mixed_Tests
 ---
 
 # TestLogger2()
@@ -18,4 +18,4 @@ tags:
 - [[New()_2]] - `calls` [INFERRED]
 - [[logger_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/Deprecated/Logger_Mixed_Tests

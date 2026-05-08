@@ -1,12 +1,12 @@
 ---
 source_file: "tools/utils/excel.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Excel Writer"
 location: "L61"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Binding_&_Pagination
+  - community/Excel_Writer
 ---
 
 # ConvertNumToChars()
@@ -15,4 +15,4 @@ tags:
 - [[WriteXlsx()]] - `calls` [EXTRACTED]
 - [[excel.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/EXTRACTED #community/Excel_Writer

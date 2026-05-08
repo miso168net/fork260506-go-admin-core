@@ -1,12 +1,12 @@
 ---
 source_file: "logger/level.go"
 type: "code"
-community: "Logrus Adapter Methods"
+community: "Level Functions"
 location: "L65"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Logrus_Adapter_Methods
+  - community/Level_Functions
 ---
 
 # GetLevel()
@@ -18,4 +18,4 @@ tags:
 - [[init()_1]] - `calls` [INFERRED]
 - [[level.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logrus_Adapter_Methods
+#graphify/code #graphify/EXTRACTED #community/Level_Functions

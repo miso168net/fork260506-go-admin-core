@@ -1,12 +1,12 @@
 ---
 source_file: "logger/examples_test.go"
 type: "code"
-community: "Sampling & Extended Logger"
+community: "Logger Examples"
 location: "L67"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Sampling_&_Extended_Logger
+  - community/Logger_Examples
 ---
 
 # ExampleNewDevelopmentLogger()
@@ -18,4 +18,4 @@ tags:
 - [[NewDevelopmentLogger()]] - `calls` [INFERRED]
 - [[examples_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Sampling_&_Extended_Logger
+#graphify/code #graphify/INFERRED #community/Logger_Examples

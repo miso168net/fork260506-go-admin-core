@@ -1,12 +1,12 @@
 ---
 source_file: "logger/factory.go"
 type: "code"
-community: "Logger Setup & Adapter"
+community: "Logger Examples"
 location: "L56"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Setup_&_Adapter
+  - community/Logger_Examples
 ---
 
 # NewFromConfig()
@@ -30,4 +30,4 @@ tags:
 - [[factory.go]] - `contains` [EXTRACTED]
 - [[parseLevel()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Setup_&_Adapter
+#graphify/code #graphify/INFERRED #community/Logger_Examples

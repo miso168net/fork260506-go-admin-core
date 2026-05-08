@@ -1,12 +1,12 @@
 ---
 source_file: "logger/sanitizer.go"
 type: "code"
-community: "Logger Performance Tests"
+community: "Async/Sampling/Sanitizer Tests"
 location: "L113"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Performance_Tests
+  - community/Async/Sampling/Sanitizer_Tests
 ---
 
 # NewSanitizerLogger()
@@ -40,4 +40,4 @@ tags:
 - [[TestSanitizerLogger_TokenHash()]] - `calls` [INFERRED]
 - [[sanitizer.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Performance_Tests
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer_Tests

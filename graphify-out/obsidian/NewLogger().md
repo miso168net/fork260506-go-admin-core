@@ -1,12 +1,12 @@
 ---
 source_file: "logger/default.go"
 type: "code"
-community: "Logger Setup & Adapter"
+community: "Default Logger Initialization"
 location: "L161"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Setup_&_Adapter
+  - community/Default_Logger_Initialization
 ---
 
 # NewLogger()
@@ -22,4 +22,4 @@ tags:
 - [[default.go_1]] - `contains` [EXTRACTED]
 - [[init()_1]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Setup_&_Adapter
+#graphify/code #graphify/INFERRED #community/Default_Logger_Initialization

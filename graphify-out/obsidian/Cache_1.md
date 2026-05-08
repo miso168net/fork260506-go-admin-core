@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/runtime/cache.go"
 type: "code"
-community: "Storage & Response Models"
+community: "Cache/Config Del Operations"
 location: "L28"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/Cache/Config_Del_Operations
 ---
 
 # Cache
@@ -27,4 +27,4 @@ tags:
 - [[.Token()]] - `method` [EXTRACTED]
 - [[cache.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/Cache/Config_Del_Operations

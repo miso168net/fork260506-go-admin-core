@@ -1,12 +1,12 @@
 ---
 source_file: "observe/audit/log.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Audit FormatFunc & Stream"
 location: "L33"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Reader_&_Observe
+  - community/Audit_FormatFunc__Stream
 ---
 
 # Record
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[log.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Reader_&_Observe
+#graphify/code #graphify/EXTRACTED #community/Audit_FormatFunc__Stream

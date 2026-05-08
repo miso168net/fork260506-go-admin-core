@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/runtime/queue.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Memory Queue Operations"
 location: "L20"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Binding_&_Pagination
+  - community/Memory_Queue_Operations
 ---
 
 # Queue
@@ -19,4 +19,4 @@ tags:
 - [[.String()_24]] - `method` [EXTRACTED]
 - [[queue.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/EXTRACTED #community/Memory_Queue_Operations

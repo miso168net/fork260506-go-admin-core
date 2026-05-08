@@ -1,12 +1,12 @@
 ---
 source_file: "logger/logrus.go"
 type: "code"
-community: "Logrus Adapter Methods"
+community: "Logger Hooks (Caller/Elasticsearch)"
 location: "L34"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Logrus_Adapter_Methods
+  - community/Logger_Hooks_Caller/Elasticsearch
 ---
 
 # sourceDir()
@@ -15,4 +15,4 @@ tags:
 - [[init()_3]] - `calls` [EXTRACTED]
 - [[logrus.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logrus_Adapter_Methods
+#graphify/code #graphify/EXTRACTED #community/Logger_Hooks_Caller/Elasticsearch

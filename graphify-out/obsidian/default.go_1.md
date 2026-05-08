@@ -1,12 +1,12 @@
 ---
 source_file: "logger/default.go"
 type: "code"
-community: "Logger Setup & Adapter"
+community: "Default Logger Initialization"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Logger_Setup_&_Adapter
+  - community/Default_Logger_Initialization
 ---
 
 # default.go
@@ -18,4 +18,4 @@ tags:
 - [[init()_1]] - `contains` [EXTRACTED]
 - [[logCallerfilePath()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logger_Setup_&_Adapter
+#graphify/code #graphify/EXTRACTED #community/Default_Logger_Initialization

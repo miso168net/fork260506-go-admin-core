@@ -1,12 +1,12 @@
 ---
 source_file: "logger/field.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Search Field/Tag DSL"
 location: "L21"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/SDK_Binding_&_Pagination
+  - community/Search_Field/Tag_DSL
 ---
 
 # Field
@@ -21,4 +21,4 @@ tags:
 - [[otherSql()]] - `calls` [INFERRED]
 - [[pgSql()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/INFERRED #community/Search_Field/Tag_DSL

@@ -1,12 +1,12 @@
 ---
 source_file: "logger/context.go"
 type: "code"
-community: "Image & Context Tools"
+community: "Logger Context + Poster Image"
 location: "L9"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Image_&_Context_Tools
+  - community/Logger_Context__Poster_Image
 ---
 
 # FromContext()
@@ -16,4 +16,4 @@ tags:
 - [[NewHelper()]] - `calls` [INFERRED]
 - [[context.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Image_&_Context_Tools
+#graphify/code #graphify/INFERRED #community/Logger_Context__Poster_Image

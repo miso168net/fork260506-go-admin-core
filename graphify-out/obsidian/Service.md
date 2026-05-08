@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/service/service.go"
 type: "code"
-community: "Storage & Response Models"
+community: "SDK Service"
 location: "L11"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/SDK_Service
 ---
 
 # Service
@@ -15,4 +15,4 @@ tags:
 - [[.AddError()_2]] - `method` [EXTRACTED]
 - [[service.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/SDK_Service

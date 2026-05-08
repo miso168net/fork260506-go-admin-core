@@ -1,12 +1,12 @@
 ---
 source_file: "logger/sampling.go"
 type: "code"
-community: "Sampling & Extended Logger"
+community: "Sampling Logger"
 location: "L34"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Sampling_&_Extended_Logger
+  - community/Sampling_Logger
 ---
 
 # samplingLogger
@@ -28,4 +28,4 @@ tags:
 - [[.shouldSample()]] - `method` [EXTRACTED]
 - [[sampling.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Sampling_&_Extended_Logger
+#graphify/code #graphify/EXTRACTED #community/Sampling_Logger

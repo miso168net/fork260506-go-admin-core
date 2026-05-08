@@ -1,12 +1,12 @@
 ---
 source_file: "config/loader/memory/memory.go"
 type: "code"
-community: "Config Core API"
+community: "Config Loader Memory"
 location: "L426"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/Config_Loader_Memory
 ---
 
 # genVer()
@@ -17,4 +17,4 @@ tags:
 - [[.reload()]] - `calls` [EXTRACTED]
 - [[memory.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/Config_Loader_Memory

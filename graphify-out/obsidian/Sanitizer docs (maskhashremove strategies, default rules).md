@@ -1,12 +1,12 @@
 ---
 source_file: "logger/README_ADVANCED.md"
 type: "document"
-community: "Logger Architecture Docs"
+community: "Logger Advanced Docs"
 location: "## 3. 敏感字段脱敏"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Logger_Architecture_Docs
+  - community/Logger_Advanced_Docs
 ---
 
 # Sanitizer docs (mask/hash/remove strategies, default rules)
@@ -16,4 +16,4 @@ tags:
 - [[Proposal WithSanitize (MaskAllMaskPartialMaskHash)]] - `implements` [INFERRED]
 - [[Sanitizer Logger (PII redaction)]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Logger_Architecture_Docs
+#graphify/document #graphify/INFERRED #community/Logger_Advanced_Docs

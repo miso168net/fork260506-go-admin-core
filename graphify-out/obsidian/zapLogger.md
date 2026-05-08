@@ -1,12 +1,12 @@
 ---
 source_file: "logger/zap.go"
 type: "code"
-community: "Sampling & Extended Logger"
+community: "Async/Sampling/Sanitizer/Zap Combinators"
 location: "L13"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Sampling_&_Extended_Logger
+  - community/Async/Sampling/Sanitizer/Zap_Combinators
 ---
 
 # zapLogger
@@ -28,4 +28,4 @@ tags:
 - [[.WithContext()_4]] - `method` [EXTRACTED]
 - [[zap.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Sampling_&_Extended_Logger
+#graphify/code #graphify/EXTRACTED #community/Async/Sampling/Sanitizer/Zap_Combinators

@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/string.go"
 type: "code"
-community: "Log Formatter & Color"
+community: "Hash / Field / Table Utils"
 location: "L9"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Log_Formatter_&_Color
+  - community/Hash_/_Field_/_Table_Utils
 ---
 
 # StringToInt()
@@ -15,4 +15,4 @@ tags:
 - [[IdsStrToIdsIntGroupStr()]] - `calls` [INFERRED]
 - [[string.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Log_Formatter_&_Color
+#graphify/code #graphify/EXTRACTED #community/Hash_/_Field_/_Table_Utils

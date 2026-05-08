@@ -1,12 +1,12 @@
 ---
 source_file: "tools/search/query_test.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Search Query Tests"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Binding_&_Pagination
+  - community/Search_Query_Tests
 ---
 
 # query_test.go
@@ -17,4 +17,4 @@ tags:
 - [[TestJoin]] - `contains` [EXTRACTED]
 - [[TestResolveSearchQuery()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/EXTRACTED #community/Search_Query_Tests

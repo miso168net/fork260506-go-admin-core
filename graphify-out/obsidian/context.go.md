@@ -1,12 +1,12 @@
 ---
 source_file: "logger/context.go"
 type: "code"
-community: "Image & Context Tools"
+community: "Logger Context + Poster Image"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Image_&_Context_Tools
+  - community/Logger_Context__Poster_Image
 ---
 
 # context.go
@@ -16,4 +16,4 @@ tags:
 - [[NewContext()]] - `contains` [EXTRACTED]
 - [[loggerKey]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Image_&_Context_Tools
+#graphify/code #graphify/EXTRACTED #community/Logger_Context__Poster_Image

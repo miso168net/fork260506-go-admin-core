@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/file/format.go"
 type: "code"
-community: "Log Formatter & Color"
+community: "Formatters & Conversion Helpers"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Log_Formatter_&_Color
+  - community/Formatters__Conversion_Helpers
 ---
 
 # format.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[format()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Log_Formatter_&_Color
+#graphify/code #graphify/EXTRACTED #community/Formatters__Conversion_Helpers

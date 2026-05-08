@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/service/service.go"
 type: "code"
-community: "Storage & Response Models"
+community: "SDK Service"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/SDK_Service
 ---
 
 # service.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Service]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/SDK_Service

@@ -1,12 +1,12 @@
 ---
 source_file: "tools/language/parser.go"
 type: "code"
-community: "Log Formatter & Color"
+community: "Formatters & Conversion Helpers"
 location: "L44"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Log_Formatter_&_Color
+  - community/Formatters__Conversion_Helpers
 ---
 
 # ParseAcceptLanguage()
@@ -20,4 +20,4 @@ tags:
 - [[parser.go]] - `contains` [EXTRACTED]
 - [[split()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Log_Formatter_&_Color
+#graphify/code #graphify/INFERRED #community/Formatters__Conversion_Helpers

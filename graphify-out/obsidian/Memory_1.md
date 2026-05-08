@@ -1,12 +1,12 @@
 ---
 source_file: "storage/queue/memory.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Memory Queue Operations"
 location: "L22"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Binding_&_Pagination
+  - community/Memory_Queue_Operations
 ---
 
 # Memory
@@ -20,4 +20,4 @@ tags:
 - [[.makeQueue()]] - `method` [EXTRACTED]
 - [[memory.go_3]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/EXTRACTED #community/Memory_Queue_Operations

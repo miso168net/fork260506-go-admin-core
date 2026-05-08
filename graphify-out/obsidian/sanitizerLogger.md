@@ -1,12 +1,12 @@
 ---
 source_file: "logger/sanitizer.go"
 type: "code"
-community: "Sampling & Extended Logger"
+community: "Database Resolver Config"
 location: "L106"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Sampling_&_Extended_Logger
+  - community/Database_Resolver_Config
 ---
 
 # sanitizerLogger
@@ -32,4 +32,4 @@ tags:
 - [[.sanitizeFields()]] - `method` [EXTRACTED]
 - [[sanitizer.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Sampling_&_Extended_Logger
+#graphify/code #graphify/EXTRACTED #community/Database_Resolver_Config

@@ -1,12 +1,12 @@
 ---
 source_file: "config/encoder/toml/toml.go"
 type: "code"
-community: "Config Core API"
+community: "TOML Encoder"
 location: "L10"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/TOML_Encoder
 ---
 
 # tomlEncoder
@@ -17,4 +17,4 @@ tags:
 - [[.String()_3]] - `method` [EXTRACTED]
 - [[toml.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/TOML_Encoder

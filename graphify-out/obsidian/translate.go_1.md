@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/translate.go"
 type: "code"
-community: "API Context & Response"
+community: "antd_api Wrapper"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/API_Context_&_Response
+  - community/antd_api_Wrapper
 ---
 
 # translate.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Translate()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/API_Context_&_Response
+#graphify/code #graphify/EXTRACTED #community/antd_api_Wrapper

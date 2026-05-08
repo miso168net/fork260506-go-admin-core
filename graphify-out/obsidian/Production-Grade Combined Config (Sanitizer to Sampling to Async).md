@@ -1,12 +1,12 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Logger Architecture Docs"
+community: "Logger Advanced Docs"
 location: "### Production-Grade Configuration"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Logger_Architecture_Docs
+  - community/Logger_Advanced_Docs
 ---
 
 # Production-Grade Combined Config (Sanitizer to Sampling to Async)
@@ -16,4 +16,4 @@ tags:
 - [[Sampling Logger (29x boost)]] - `references` [EXTRACTED]
 - [[Sanitizer Logger (PII redaction)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Logger_Architecture_Docs
+#graphify/document #graphify/EXTRACTED #community/Logger_Advanced_Docs

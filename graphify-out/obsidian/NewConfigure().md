@@ -1,12 +1,12 @@
 ---
 source_file: "tools/database/config.go"
 type: "code"
-community: "Configure & Settings"
+community: "Database Resolver Config"
 location: "L20"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Configure_&_Settings
+  - community/Database_Resolver_Config
 ---
 
 # NewConfigure()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[config.go_3]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Configure_&_Settings
+#graphify/code #graphify/EXTRACTED #community/Database_Resolver_Config

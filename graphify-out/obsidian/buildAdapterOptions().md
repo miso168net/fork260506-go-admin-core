@@ -6,7 +6,7 @@ location: "L91"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Setup_&_Adapter
+  - community/Logger_Setup__Adapter
 ---
 
 # buildAdapterOptions()
@@ -18,4 +18,4 @@ tags:
 - [[WithStdout()]] - `calls` [INFERRED]
 - [[factory.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Setup_&_Adapter
+#graphify/code #graphify/INFERRED #community/Logger_Setup__Adapter

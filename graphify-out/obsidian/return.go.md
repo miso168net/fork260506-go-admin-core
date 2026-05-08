@@ -1,12 +1,12 @@
 ---
 source_file: "response/return.go"
 type: "code"
-community: "Storage & Response Models"
+community: "antd Response Methods"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/antd_Response_Methods
 ---
 
 # return.go
@@ -17,4 +17,4 @@ tags:
 - [[OK()]] - `contains` [EXTRACTED]
 - [[PageOK()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/antd_Response_Methods

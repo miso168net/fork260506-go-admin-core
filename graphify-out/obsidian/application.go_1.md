@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/config/application.go"
 type: "code"
-community: "Application Type"
+community: "SDK Application Config"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Application_Type
+  - community/SDK_Application_Config
 ---
 
 # application.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Application]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Application_Type
+#graphify/code #graphify/EXTRACTED #community/SDK_Application_Config

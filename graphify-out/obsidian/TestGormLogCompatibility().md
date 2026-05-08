@@ -1,12 +1,12 @@
 ---
 source_file: "integration_test.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "JSON Reader & Preprocessor"
 location: "L221"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/JSON_Reader__Preprocessor
 ---
 
 # TestGormLogCompatibility()
@@ -18,4 +18,4 @@ tags:
 - [[New()_2]] - `calls` [INFERRED]
 - [[integration_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/JSON_Reader__Preprocessor

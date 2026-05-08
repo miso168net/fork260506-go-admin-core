@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Logger Performance Tests]]
+- 1 edge to [[_COMMUNITY_AsyncSamplingSanitizer Tests]]
 
 ## Top bridge nodes
 - [[.String()_22]] - degree 2, connects to 1 community

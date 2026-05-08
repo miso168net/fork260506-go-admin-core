@@ -1,12 +1,12 @@
 ---
 source_file: "storage/queue/message.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Memory Queue Append"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Binding_&_Pagination
+  - community/Memory_Queue_Append
 ---
 
 # message.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Message_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/EXTRACTED #community/Memory_Queue_Append

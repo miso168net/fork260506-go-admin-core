@@ -1,12 +1,12 @@
 ---
 source_file: "response/antd/model.go"
 type: "code"
-community: "Storage & Response Models"
+community: "antd Pagination Models"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/antd_Pagination_Models
 ---
 
 # model.go
@@ -17,4 +17,4 @@ tags:
 - [[Response_1]] - `contains` [EXTRACTED]
 - [[lists]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/antd_Pagination_Models

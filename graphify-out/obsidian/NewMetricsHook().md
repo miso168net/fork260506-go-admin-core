@@ -1,12 +1,12 @@
 ---
 source_file: "logger/logrus.go"
 type: "code"
-community: "Logrus Adapter Methods"
+community: "Logrus AddHook"
 location: "L556"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Logrus_Adapter_Methods
+  - graphify/INFERRED
+  - community/Logrus_AddHook
 ---
 
 # NewMetricsHook()
@@ -15,4 +15,4 @@ tags:
 - [[ExampleNewLogrusLogger_addHook()]] - `calls` [INFERRED]
 - [[logrus.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logrus_Adapter_Methods
+#graphify/code #graphify/INFERRED #community/Logrus_AddHook

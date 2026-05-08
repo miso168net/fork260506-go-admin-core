@@ -1,12 +1,12 @@
 ---
 source_file: "docs/architecture/logging-architecture.md"
 type: "document"
-community: "Logger Architecture Docs"
+community: "Logger Advanced Docs"
 location: "#### 易用性问题"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Logger_Architecture_Docs
+  - community/Logger_Advanced_Docs
 ---
 
 # Usability problems (no structured, no context, no trace_id)
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Layered logging architecture (BusinessMiddlewareCoreWriter)]] - `rationale_for` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Logger_Architecture_Docs
+#graphify/document #graphify/EXTRACTED #community/Logger_Advanced_Docs

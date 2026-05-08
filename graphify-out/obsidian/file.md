@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/file/file.go"
 type: "code"
-community: "Config Core API"
+community: "Errors & File Watcher"
 location: "L11"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/Errors__File_Watcher
 ---
 
 # file
@@ -18,4 +18,4 @@ tags:
 - [[.Write()]] - `method` [EXTRACTED]
 - [[file.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/Errors__File_Watcher

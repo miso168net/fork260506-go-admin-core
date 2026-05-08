@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/config/ssl.go"
 type: "code"
-community: "SSL Type"
+community: "SDK SSL Config"
 location: "L3"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SSL_Type
+  - community/SDK_SSL_Config
 ---
 
 # Ssl
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[ssl.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SSL_Type
+#graphify/code #graphify/EXTRACTED #community/SDK_SSL_Config

@@ -1,12 +1,12 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Logger Architecture Docs"
+community: "Logger Advanced Docs"
 location: "### Sanitizer Logger"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Logger_Architecture_Docs
+  - community/Logger_Advanced_Docs
 ---
 
 # Sanitizer Logger (PII redaction)
@@ -15,4 +15,4 @@ tags:
 - [[Production-Grade Combined Config (Sanitizer to Sampling to Async)]] - `references` [EXTRACTED]
 - [[Sanitizer docs (maskhashremove strategies, default rules)]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Logger_Architecture_Docs
+#graphify/document #graphify/EXTRACTED #community/Logger_Advanced_Docs

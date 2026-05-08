@@ -1,12 +1,12 @@
 ---
 source_file: "docs/architecture/logging-architecture.md"
 type: "document"
-community: "Logger Architecture Docs"
+community: "Logger Advanced Docs"
 location: "### 2.1 分层架构"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Logger_Architecture_Docs
+  - community/Logger_Advanced_Docs
 ---
 
 # Layered logging architecture (Business/Middleware/Core/Writer)
@@ -20,4 +20,4 @@ tags:
 - [[Rationale 101 ROI (3wk effort, 30wk return)]] - `rationale_for` [EXTRACTED]
 - [[Usability problems (no structured, no context, no trace_id)]] - `rationale_for` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Logger_Architecture_Docs
+#graphify/document #graphify/EXTRACTED #community/Logger_Advanced_Docs

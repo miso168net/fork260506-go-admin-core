@@ -1,12 +1,12 @@
 ---
 source_file: "casbin/mycasbin.go"
 type: "code"
-community: "Logrus Adapter Methods"
+community: "Logger Logf/Debugf"
 location: "L60"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logrus_Adapter_Methods
+  - community/Logger_Logf/Debugf
 ---
 
 # updateCallback()
@@ -18,4 +18,4 @@ tags:
 - [[NewHelper()]] - `calls` [INFERRED]
 - [[mycasbin.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logrus_Adapter_Methods
+#graphify/code #graphify/INFERRED #community/Logger_Logf/Debugf

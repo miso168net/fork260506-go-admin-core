@@ -1,12 +1,12 @@
 ---
 source_file: "config/reader/json/values_test.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "JSON Reader & Preprocessor"
 location: "L50"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/JSON_Reader__Preprocessor
 ---
 
 # TestStructArray()
@@ -19,4 +19,4 @@ tags:
 - [[newValues()]] - `calls` [INFERRED]
 - [[values_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/JSON_Reader__Preprocessor

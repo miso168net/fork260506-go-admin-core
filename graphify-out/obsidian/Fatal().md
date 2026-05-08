@@ -1,12 +1,12 @@
 ---
 source_file: "logger/level.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "JSON Reader & Preprocessor"
 location: "L124"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/JSON_Reader__Preprocessor
 ---
 
 # Fatal()
@@ -29,4 +29,4 @@ tags:
 - [[handleError()]] - `calls` [INFERRED]
 - [[level.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/JSON_Reader__Preprocessor

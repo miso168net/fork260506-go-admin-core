@@ -1,11 +1,11 @@
 ---
 source_file: "config/README.md"
 type: "document"
-community: "Config Source Adapters"
+community: "Config README Examples"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Config_Source_Adapters
+  - graphify/INFERRED
+  - community/Config_README_Examples
 ---
 
 # config.NewConfig + file.NewSource Test
@@ -14,4 +14,4 @@ tags:
 - [[File Source (yamljsontomlxml)]] - `references` [EXTRACTED]
 - [[config.Setup with FileSource]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Config_Source_Adapters
+#graphify/document #graphify/INFERRED #community/Config_README_Examples

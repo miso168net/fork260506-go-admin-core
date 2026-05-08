@@ -6,7 +6,7 @@ location: "L19"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Errors_&_File_Watcher
+  - community/Errors__File_Watcher
 ---
 
 # newWatcher()
@@ -17,4 +17,4 @@ tags:
 - [[newWatcher()]] - `calls` [INFERRED]
 - [[watcher_linux.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Errors_&_File_Watcher
+#graphify/code #graphify/INFERRED #community/Errors__File_Watcher

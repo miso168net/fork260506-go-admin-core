@@ -6,7 +6,7 @@ location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Errors_&_File_Watcher
+  - community/Errors__File_Watcher
 ---
 
 # error_code.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[ErrorCode]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Errors_&_File_Watcher
+#graphify/code #graphify/EXTRACTED #community/Errors__File_Watcher

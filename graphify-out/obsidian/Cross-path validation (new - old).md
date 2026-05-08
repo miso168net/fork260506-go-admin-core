@@ -1,12 +1,12 @@
 ---
 source_file: "docs/migration/INTEGRATION_TEST_REPORT.md"
 type: "document"
-community: "v1.6 Migration & Compat"
+community: "v1.6 Migration Changelog"
 location: "**关键发现**"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/v1.6_Migration_&_Compat
+  - community/v16_Migration_Changelog
 ---
 
 # Cross-path validation (new <-> old)
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Compat layer design via deprecated.go re-export]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/v1.6_Migration_&_Compat
+#graphify/document #graphify/EXTRACTED #community/v16_Migration_Changelog

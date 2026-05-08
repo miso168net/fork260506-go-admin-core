@@ -1,12 +1,12 @@
 ---
 source_file: "logger/helper.go"
 type: "code"
-community: "API Context & Response"
+community: "antd_api Wrapper"
 location: "L26"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/API_Context_&_Response
+  - community/antd_api_Wrapper
 ---
 
 # NewHelper()
@@ -20,4 +20,4 @@ tags:
 - [[init()_1]] - `calls` [INFERRED]
 - [[updateCallback()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/API_Context_&_Response
+#graphify/code #graphify/INFERRED #community/antd_api_Wrapper

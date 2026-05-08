@@ -1,12 +1,12 @@
 ---
 source_file: "tools/database/config_test.go"
 type: "code"
-community: "Configure & Settings"
+community: "Database Resolver Config"
 location: "L13"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Configure_&_Settings
+  - community/Database_Resolver_Config
 ---
 
 # TestDBConfig_Init()
@@ -18,4 +18,4 @@ tags:
 - [[Errorf()]] - `calls` [INFERRED]
 - [[config_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Configure_&_Settings
+#graphify/code #graphify/INFERRED #community/Database_Resolver_Config

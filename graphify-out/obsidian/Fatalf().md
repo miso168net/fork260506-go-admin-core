@@ -1,12 +1,12 @@
 ---
 source_file: "logger/level.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Deprecated/Logger Mixed Tests"
 location: "L129"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Deprecated/Logger_Mixed_Tests
 ---
 
 # Fatalf()
@@ -32,4 +32,4 @@ tags:
 - [[TestValues()]] - `calls` [INFERRED]
 - [[level.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/Deprecated/Logger_Mixed_Tests

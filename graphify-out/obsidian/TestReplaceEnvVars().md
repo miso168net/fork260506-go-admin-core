@@ -1,12 +1,12 @@
 ---
 source_file: "config/reader/preprocessor_test.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "JSON Reader & Preprocessor"
 location: "L9"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/JSON_Reader__Preprocessor
 ---
 
 # TestReplaceEnvVars()
@@ -18,4 +18,4 @@ tags:
 - [[ReplaceEnvVars()]] - `calls` [INFERRED]
 - [[preprocessor_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/JSON_Reader__Preprocessor

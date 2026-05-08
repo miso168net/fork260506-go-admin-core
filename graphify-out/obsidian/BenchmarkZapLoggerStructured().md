@@ -1,12 +1,12 @@
 ---
 source_file: "logger/benchmark_test.go"
 type: "code"
-community: "Hash & Field Values"
+community: "Field Constructors"
 location: "L42"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Hash_&_Field_Values
+  - community/Field_Constructors
 ---
 
 # BenchmarkZapLoggerStructured()
@@ -20,4 +20,4 @@ tags:
 - [[WithLevel()]] - `calls` [INFERRED]
 - [[benchmark_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Hash_&_Field_Values
+#graphify/code #graphify/INFERRED #community/Field_Constructors

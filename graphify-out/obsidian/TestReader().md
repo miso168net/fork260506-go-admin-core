@@ -1,12 +1,12 @@
 ---
 source_file: "config/reader/json/json_test.go"
 type: "code"
-community: "Config Core API"
+community: "YAML Encoder + JSON Reader"
 location: "L9"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Core_API
+  - community/YAML_Encoder__JSON_Reader
 ---
 
 # TestReader()
@@ -21,4 +21,4 @@ tags:
 - [[NewReader()]] - `calls` [INFERRED]
 - [[json_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Core_API
+#graphify/code #graphify/INFERRED #community/YAML_Encoder__JSON_Reader

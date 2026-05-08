@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/url.go"
 type: "code"
-community: "Log Formatter & Color"
+community: "Formatters & Conversion Helpers"
 location: "L18"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Log_Formatter_&_Color
+  - community/Formatters__Conversion_Helpers
 ---
 
 # IdsStrToIdsIntGroupStr()
@@ -19,4 +19,4 @@ tags:
 - [[split()]] - `calls` [INFERRED]
 - [[url.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Log_Formatter_&_Color
+#graphify/code #graphify/INFERRED #community/Formatters__Conversion_Helpers

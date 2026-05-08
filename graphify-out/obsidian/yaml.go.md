@@ -1,12 +1,12 @@
 ---
 source_file: "config/encoder/yaml/yaml.go"
 type: "code"
-community: "Config Core API"
+community: "YAML Encoder + JSON Reader"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/YAML_Encoder__JSON_Reader
 ---
 
 # yaml.go
@@ -15,4 +15,4 @@ tags:
 - [[NewEncoder()_3]] - `contains` [EXTRACTED]
 - [[yamlEncoder]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/YAML_Encoder__JSON_Reader

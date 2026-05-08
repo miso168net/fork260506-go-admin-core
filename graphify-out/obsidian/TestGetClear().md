@@ -1,12 +1,12 @@
 ---
 source_file: "captcha/store_test.go"
 type: "code"
-community: "Storage & Response Models"
+community: "Cache/Captcha/Memory Tests Mix"
 location: "L31"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Storage_&_Response_Models
+  - community/Cache/Captcha/Memory_Tests_Mix
 ---
 
 # TestGetClear()
@@ -19,4 +19,4 @@ tags:
 - [[getStore()]] - `calls` [EXTRACTED]
 - [[store_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Storage_&_Response_Models
+#graphify/code #graphify/INFERRED #community/Cache/Captcha/Memory_Tests_Mix

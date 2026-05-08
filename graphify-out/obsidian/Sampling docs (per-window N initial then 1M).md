@@ -1,12 +1,12 @@
 ---
 source_file: "logger/README_ADVANCED.md"
 type: "document"
-community: "Logger Architecture Docs"
+community: "Logger Advanced Docs"
 location: "## 1. 日志采样"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Logger_Architecture_Docs
+  - community/Logger_Advanced_Docs
 ---
 
 # Sampling docs (per-window N initial then 1/M)
@@ -16,4 +16,4 @@ tags:
 - [[Proposal SamplingConfig (InitialThereafterTick)]] - `implements` [INFERRED]
 - [[Sampling Logger (29x boost)]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Logger_Architecture_Docs
+#graphify/document #graphify/INFERRED #community/Logger_Advanced_Docs

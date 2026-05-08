@@ -6,7 +6,7 @@ location: "L12"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Errors_&_File_Watcher
+  - community/Errors__File_Watcher
 ---
 
 # watcher
@@ -17,4 +17,4 @@ tags:
 - [[watcher.go]] - `contains` [EXTRACTED]
 - [[watcher_linux.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Errors_&_File_Watcher
+#graphify/code #graphify/EXTRACTED #community/Errors__File_Watcher

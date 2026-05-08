@@ -1,12 +1,12 @@
 ---
 source_file: "logger/sampling.go"
 type: "code"
-community: "Logger Performance Tests"
+community: "Async/Sampling/Sanitizer Tests"
 location: "L41"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Performance_Tests
+  - community/Async/Sampling/Sanitizer_Tests
 ---
 
 # NewSamplingLogger()
@@ -25,4 +25,4 @@ tags:
 - [[applyPlugins()]] - `calls` [INFERRED]
 - [[sampling.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Performance_Tests
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer_Tests

@@ -1,12 +1,12 @@
 ---
 source_file: "logger/field.go"
 type: "code"
-community: "Hash & Field Values"
+community: "Field Constructors"
 location: "L92"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Hash_&_Field_Values
+  - community/Field_Constructors
 ---
 
 # Method()
@@ -16,4 +16,4 @@ tags:
 - [[FieldString()]] - `calls` [EXTRACTED]
 - [[field.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Hash_&_Field_Values
+#graphify/code #graphify/EXTRACTED #community/Field_Constructors

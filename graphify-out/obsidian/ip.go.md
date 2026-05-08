@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/ip.go"
 type: "code"
-community: "Storage & Response Models"
+community: "IP Helpers"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/IP_Helpers
 ---
 
 # ip.go
@@ -15,4 +15,4 @@ tags:
 - [[GetLocalHost()]] - `contains` [EXTRACTED]
 - [[GetLocation()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/IP_Helpers

@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/api/binding.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "API Bind Constructor"
 location: "L21"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Binding_&_Pagination
+  - community/API_Bind_Constructor
 ---
 
 # bindConstructor
@@ -18,4 +18,4 @@ tags:
 - [[.setBinding()_1]] - `method` [EXTRACTED]
 - [[binding.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/EXTRACTED #community/API_Bind_Constructor

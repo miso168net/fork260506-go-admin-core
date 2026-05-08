@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/runtime/application.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Default Config Tests"
 location: "L233"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Reader_&_Observe
+  - community/Default_Config_Tests
 ---
 
 # NewConfig()
@@ -22,4 +22,4 @@ tags:
 - [[TestConfigWatcherDirtyOverrite()]] - `calls` [INFERRED]
 - [[application.go_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Reader_&_Observe
+#graphify/code #graphify/INFERRED #community/Default_Config_Tests

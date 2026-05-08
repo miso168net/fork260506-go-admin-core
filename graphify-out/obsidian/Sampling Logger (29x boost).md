@@ -1,12 +1,12 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Logger Architecture Docs"
+community: "Logger Advanced Docs"
 location: "### Sampling Logger"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Logger_Architecture_Docs
+  - community/Logger_Advanced_Docs
 ---
 
 # Sampling Logger (29x boost)
@@ -15,4 +15,4 @@ tags:
 - [[Production-Grade Combined Config (Sanitizer to Sampling to Async)]] - `references` [EXTRACTED]
 - [[Sampling docs (per-window N initial then 1M)]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Logger_Architecture_Docs
+#graphify/document #graphify/EXTRACTED #community/Logger_Advanced_Docs

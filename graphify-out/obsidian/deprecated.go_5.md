@@ -1,12 +1,12 @@
 ---
 source_file: "tools/gorm/logger/deprecated.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Deprecated/Logger Mixed Tests"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Deprecated/Logger_Mixed_Tests
 ---
 
 # deprecated.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[New()_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/EXTRACTED #community/Deprecated/Logger_Mixed_Tests

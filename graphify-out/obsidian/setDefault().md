@@ -1,12 +1,12 @@
 ---
 source_file: "logger/writer/options.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Writer Options"
 location: "L17"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Config_Reader_&_Observe
+  - graphify/INFERRED
+  - community/Writer_Options
 ---
 
 # setDefault()
@@ -15,4 +15,4 @@ tags:
 - [[NewFileWriter()]] - `calls` [INFERRED]
 - [[options.go_8]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Reader_&_Observe
+#graphify/code #graphify/INFERRED #community/Writer_Options

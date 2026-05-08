@@ -1,12 +1,12 @@
 ---
 source_file: "logger/field.go"
 type: "code"
-community: "Sampling & Extended Logger"
+community: "Field Constructors"
 location: "L70"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Sampling_&_Extended_Logger
+  - community/Field_Constructors
 ---
 
 # Any()
@@ -16,4 +16,4 @@ tags:
 - [[field.go]] - `contains` [EXTRACTED]
 - [[toZapFields()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Sampling_&_Extended_Logger
+#graphify/code #graphify/INFERRED #community/Field_Constructors

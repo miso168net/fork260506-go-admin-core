@@ -1,12 +1,12 @@
 ---
 source_file: "logger/performance_benchmark_test.go"
 type: "code"
-community: "Logger Performance Tests"
+community: "Async/Sampling/Sanitizer Tests"
 location: "L206"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Performance_Tests
+  - community/Async/Sampling/Sanitizer_Tests
 ---
 
 # BenchmarkSampling_First100Then10()
@@ -19,4 +19,4 @@ tags:
 - [[WithOutput()]] - `calls` [INFERRED]
 - [[performance_benchmark_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Performance_Tests
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer_Tests

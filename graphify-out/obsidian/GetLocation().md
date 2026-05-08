@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/ip.go"
 type: "code"
-community: "Storage & Response Models"
+community: "IP Helpers"
 location: "L12"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Storage_&_Response_Models
+  - community/IP_Helpers
 ---
 
 # GetLocation()
@@ -16,4 +16,4 @@ tags:
 - [[.Get()_5]] - `calls` [INFERRED]
 - [[ip.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Storage_&_Response_Models
+#graphify/code #graphify/INFERRED #community/IP_Helpers

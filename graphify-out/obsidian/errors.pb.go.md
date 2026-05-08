@@ -1,12 +1,12 @@
 ---
 source_file: "errors/errors.pb.go"
 type: "code"
-community: "Errors & File Watcher"
+community: "Error Descriptor Methods"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Errors_&_File_Watcher
+  - community/Error_Descriptor_Methods
 ---
 
 # errors.pb.go
@@ -17,4 +17,4 @@ tags:
 - [[file_errors_proto_rawDescGZIP()]] - `contains` [EXTRACTED]
 - [[init()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Errors_&_File_Watcher
+#graphify/code #graphify/EXTRACTED #community/Error_Descriptor_Methods

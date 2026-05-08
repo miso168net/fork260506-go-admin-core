@@ -1,12 +1,12 @@
 ---
 source_file: "errors/errors.pb.go"
 type: "code"
-community: "Errors & File Watcher"
+community: "Error Descriptor Methods"
 location: "L23"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Errors_&_File_Watcher
+  - community/Error_Descriptor_Methods
 ---
 
 # Error
@@ -26,4 +26,4 @@ tags:
 - [[.String()_12]] - `method` [EXTRACTED]
 - [[errors.pb.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Errors_&_File_Watcher
+#graphify/code #graphify/EXTRACTED #community/Error_Descriptor_Methods

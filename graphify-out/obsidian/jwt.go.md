@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/config/jwt.go"
 type: "code"
-community: "JWT Type"
+community: "SDK JWT Config"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/JWT_Type
+  - community/SDK_JWT_Config
 ---
 
 # jwt.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Jwt]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/JWT_Type
+#graphify/code #graphify/EXTRACTED #community/SDK_JWT_Config

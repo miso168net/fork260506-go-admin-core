@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/utils/file_test.go"
 type: "code"
-community: "Configure & Settings"
+community: "Database Resolver Config"
 location: "L8"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Configure_&_Settings
+  - community/Database_Resolver_Config
 ---
 
 # TestIsNotExistMkDir()
@@ -17,4 +17,4 @@ tags:
 - [[Log]] - `calls` [INFERRED]
 - [[file_test.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Configure_&_Settings
+#graphify/code #graphify/INFERRED #community/Database_Resolver_Config

@@ -1,12 +1,12 @@
 ---
 source_file: "tools/poster/poster.go"
 type: "code"
-community: "Config Core API"
+community: "Config Loader Memory"
 location: "L128"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Core_API
+  - community/Config_Loader_Memory
 ---
 
 # Merge()
@@ -19,4 +19,4 @@ tags:
 - [[TestReader()]] - `calls` [INFERRED]
 - [[poster.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Core_API
+#graphify/code #graphify/INFERRED #community/Config_Loader_Memory

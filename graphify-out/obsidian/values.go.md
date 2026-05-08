@@ -1,12 +1,12 @@
 ---
 source_file: "config/reader/json/values.go"
 type: "code"
-community: "Config Core API"
+community: "JSON Reader & Preprocessor"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/JSON_Reader__Preprocessor
 ---
 
 # values.go
@@ -16,4 +16,4 @@ tags:
 - [[jsonValues]] - `contains` [EXTRACTED]
 - [[newValues()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/JSON_Reader__Preprocessor

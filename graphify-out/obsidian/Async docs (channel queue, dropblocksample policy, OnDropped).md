@@ -1,12 +1,12 @@
 ---
 source_file: "logger/README_ADVANCED.md"
 type: "document"
-community: "Logger Architecture Docs"
+community: "Logger Advanced Docs"
 location: "## 2. 异步日志"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Logger_Architecture_Docs
+  - community/Logger_Advanced_Docs
 ---
 
 # Async docs (channel queue, drop/block/sample policy, OnDropped)
@@ -16,4 +16,4 @@ tags:
 - [[Combination order Sanitizer - Sampling - Async]] - `references` [EXTRACTED]
 - [[Rationale ErrorFatal bypass async to avoid loss]] - `rationale_for` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Logger_Architecture_Docs
+#graphify/document #graphify/EXTRACTED #community/Logger_Advanced_Docs

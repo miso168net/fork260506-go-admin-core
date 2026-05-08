@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/captcha/deprecated.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "JSON Reader & Preprocessor"
 location: "L22"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Captcha_&_Preprocessor_Tools
+  - graphify/INFERRED
+  - community/JSON_Reader__Preprocessor
 ---
 
 # DriverStringFunc()
@@ -15,4 +15,4 @@ tags:
 - [[TestCaptchaCompatibility()]] - `calls` [INFERRED]
 - [[deprecated.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/JSON_Reader__Preprocessor

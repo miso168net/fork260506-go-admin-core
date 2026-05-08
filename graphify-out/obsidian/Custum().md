@@ -1,12 +1,12 @@
 ---
 source_file: "response/antd/return.go"
 type: "code"
-community: "Storage & Response Models"
+community: "antd Response Methods"
 location: "L77"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/antd_Response_Methods
 ---
 
 # Custum()
@@ -17,4 +17,4 @@ tags:
 - [[return.go]] - `contains` [EXTRACTED]
 - [[return.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/antd_Response_Methods

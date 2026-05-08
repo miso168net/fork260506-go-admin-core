@@ -6,7 +6,7 @@ location: "L112"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Setup_&_Adapter
+  - community/Logger_Setup__Adapter
 ---
 
 # WithStdout()
@@ -17,4 +17,4 @@ tags:
 - [[buildAdapterOptions()]] - `calls` [INFERRED]
 - [[options.go_7]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Setup_&_Adapter
+#graphify/code #graphify/INFERRED #community/Logger_Setup__Adapter

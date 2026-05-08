@@ -1,12 +1,12 @@
 ---
 source_file: "tools/search/query.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Search Field/Tag DSL"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Binding_&_Pagination
+  - community/Search_Field/Tag_DSL
 ---
 
 # query.go
@@ -16,4 +16,4 @@ tags:
 - [[otherSql()]] - `contains` [EXTRACTED]
 - [[pgSql()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/EXTRACTED #community/Search_Field/Tag_DSL

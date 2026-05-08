@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/noop.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Config Map / Flag / NoOp Source"
 location: "L7"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Config_Map_/_Flag_/_NoOp_Source
 ---
 
 # noopWatcher
@@ -16,4 +16,4 @@ tags:
 - [[.Stop()_2]] - `method` [EXTRACTED]
 - [[noop.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/EXTRACTED #community/Config_Map_/_Flag_/_NoOp_Source

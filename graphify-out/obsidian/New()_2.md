@@ -1,12 +1,12 @@
 ---
 source_file: "tools/gorm/logger/deprecated.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Deprecated/Logger Mixed Tests"
 location: "L21"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Deprecated/Logger_Mixed_Tests
 ---
 
 # New()
@@ -56,4 +56,4 @@ tags:
 - [[newValues()]] - `calls` [INFERRED]
 - [[transInit()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/Deprecated/Logger_Mixed_Tests

@@ -1,12 +1,12 @@
 ---
 source_file: "tools/poster/source.go"
 type: "code"
-community: "Config Core API"
+community: "YAML Encoder + JSON Reader"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/YAML_Encoder__JSON_Reader
 ---
 
 # source.go
@@ -15,4 +15,4 @@ tags:
 - [[GetImage()]] - `contains` [EXTRACTED]
 - [[getResourceReader()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/YAML_Encoder__JSON_Reader

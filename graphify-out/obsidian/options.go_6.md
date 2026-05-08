@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/memory/options.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Memory Source Options"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Reader_&_Observe
+  - community/Memory_Source_Options
 ---
 
 # options.go
@@ -18,4 +18,4 @@ tags:
 - [[changeSetKey]] - `contains` [EXTRACTED]
 - [[withData()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Reader_&_Observe
+#graphify/code #graphify/EXTRACTED #community/Memory_Source_Options

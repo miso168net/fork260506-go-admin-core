@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/runtime/application.go"
 type: "code"
-community: "SDK Application Container"
+community: "SDK Runtime Application"
 location: "L21"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Application_Container
+  - community/SDK_Runtime_Application
 ---
 
 # Application
@@ -75,4 +75,4 @@ tags:
 - [[.setRouter()]] - `method` [EXTRACTED]
 - [[application.go_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Application_Container
+#graphify/code #graphify/EXTRACTED #community/SDK_Runtime_Application

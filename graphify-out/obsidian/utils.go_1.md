@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/utils/utils.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "SDK Utils (UUID/Hmac/Time)"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Binding_&_Pagination
+  - community/SDK_Utils_UUID/Hmac/Time
 ---
 
 # utils.go
@@ -21,4 +21,4 @@ tags:
 - [[PathExists()]] - `contains` [EXTRACTED]
 - [[RemoveRepByMap()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/EXTRACTED #community/SDK_Utils_UUID/Hmac/Time

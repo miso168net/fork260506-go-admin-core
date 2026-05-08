@@ -1,12 +1,12 @@
 ---
 source_file: "observability/audit/deprecated.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Audit Options/Reader"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Reader_&_Observe
+  - community/Audit_Options/Reader
 ---
 
 # deprecated.go
@@ -20,4 +20,4 @@ tags:
 - [[Size()]] - `contains` [EXTRACTED]
 - [[TextFormat()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Reader_&_Observe
+#graphify/code #graphify/EXTRACTED #community/Audit_Options/Reader

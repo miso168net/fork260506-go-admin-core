@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/api/translate.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Cache/Captcha/Memory Tests Mix"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Cache/Captcha/Memory_Tests_Mix
 ---
 
 # translate.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[transInit()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/EXTRACTED #community/Cache/Captcha/Memory_Tests_Mix

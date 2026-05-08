@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/utils.go"
 type: "code"
-community: "API Context & Response"
+community: "antd_api Wrapper"
 location: "L71"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/API_Context_&_Response
+  - community/antd_api_Wrapper
 ---
 
 # GetOrm()
@@ -18,4 +18,4 @@ tags:
 - [[New()_2]] - `calls` [INFERRED]
 - [[utils.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/API_Context_&_Response
+#graphify/code #graphify/INFERRED #community/antd_api_Wrapper

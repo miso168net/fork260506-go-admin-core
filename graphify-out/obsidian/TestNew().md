@@ -1,12 +1,12 @@
 ---
 source_file: "tools/gorm/gormlog/logger_test.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Deprecated/Logger Mixed Tests"
 location: "L12"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Deprecated/Logger_Mixed_Tests
 ---
 
 # TestNew()
@@ -18,4 +18,4 @@ tags:
 - [[New()_2]] - `calls` [INFERRED]
 - [[logger_test.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/Deprecated/Logger_Mixed_Tests

@@ -1,12 +1,12 @@
 ---
 source_file: "storage/queue/memory_test.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Memory Queue Append"
 location: "L56"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/SDK_Binding_&_Pagination
+  - community/Memory_Queue_Append
 ---
 
 # TestMemory_Register()
@@ -21,4 +21,4 @@ tags:
 - [[NewMemory()]] - `calls` [INFERRED]
 - [[memory_test.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/INFERRED #community/Memory_Queue_Append

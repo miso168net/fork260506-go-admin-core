@@ -1,12 +1,12 @@
 ---
 source_file: "storage/queue/memory.go"
 type: "code"
-community: "Storage & Response Models"
+community: "Cache/Captcha/Memory Tests Mix"
 location: "L15"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Storage_&_Response_Models
+  - community/Cache/Captcha/Memory_Tests_Mix
 ---
 
 # NewMemory()
@@ -26,4 +26,4 @@ tags:
 - [[memory.go_2]] - `contains` [EXTRACTED]
 - [[memory.go_3]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Storage_&_Response_Models
+#graphify/code #graphify/INFERRED #community/Cache/Captcha/Memory_Tests_Mix

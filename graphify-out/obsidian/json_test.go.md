@@ -1,12 +1,12 @@
 ---
 source_file: "config/reader/json/json_test.go"
 type: "code"
-community: "Config Core API"
+community: "YAML Encoder + JSON Reader"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/YAML_Encoder__JSON_Reader
 ---
 
 # json_test.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[TestReader()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/YAML_Encoder__JSON_Reader

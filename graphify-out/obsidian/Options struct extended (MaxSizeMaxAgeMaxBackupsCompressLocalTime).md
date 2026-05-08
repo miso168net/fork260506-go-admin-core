@@ -1,12 +1,12 @@
 ---
 source_file: "docs/architecture/code-optimization-v2.md"
 type: "document"
-community: "Options Refactor Rationale"
+community: "Logger Options Refactor Rationale"
 location: "#### 1. 扩展 Options 结构体"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Options_Refactor_Rationale
+  - community/Logger_Options_Refactor_Rationale
 ---
 
 # Options struct extended (MaxSize/MaxAge/MaxBackups/Compress/LocalTime)
@@ -18,4 +18,4 @@ tags:
 - [[factory.buildAdapterOptions Config wiring]] - `shares_data_with` [EXTRACTED]
 - [[sdkconfiglogger.go uses new Option system]] - `references` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Options_Refactor_Rationale
+#graphify/document #graphify/EXTRACTED #community/Logger_Options_Refactor_Rationale

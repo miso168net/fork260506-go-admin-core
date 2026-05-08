@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/config/queue.go"
 type: "code"
-community: "Storage & Response Models"
+community: "SDK Queue Config"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/SDK_Queue_Config
 ---
 
 # queue.go
@@ -15,4 +15,4 @@ tags:
 - [[Queue]] - `contains` [EXTRACTED]
 - [[QueueMemory]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/SDK_Queue_Config

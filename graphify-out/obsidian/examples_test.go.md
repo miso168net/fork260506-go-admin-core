@@ -1,12 +1,12 @@
 ---
 source_file: "logger/examples_test.go"
 type: "code"
-community: "Hash & Field Values"
+community: "Logger Examples"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Hash_&_Field_Values
+  - community/Logger_Examples
 ---
 
 # examples_test.go
@@ -22,4 +22,4 @@ tags:
 - [[ExampleNewProductionLogger()]] - `contains` [EXTRACTED]
 - [[ExampleRegisterAdapter()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Hash_&_Field_Values
+#graphify/code #graphify/EXTRACTED #community/Logger_Examples

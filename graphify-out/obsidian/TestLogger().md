@@ -1,12 +1,12 @@
 ---
 source_file: "logger/logger_test.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "File Source + GORM Logger"
 location: "L10"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/File_Source__GORM_Logger
 ---
 
 # TestLogger()
@@ -23,4 +23,4 @@ tags:
 - [[WithName()]] - `calls` [INFERRED]
 - [[logger_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/File_Source__GORM_Logger

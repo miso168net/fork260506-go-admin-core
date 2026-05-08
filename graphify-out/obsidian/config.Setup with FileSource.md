@@ -1,12 +1,12 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Config Source Adapters"
+community: "Config README Examples"
 location: "## Configuration Management"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Config_Source_Adapters
+  - community/Config_README_Examples
 ---
 
 # config.Setup with FileSource
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[config.NewConfig + file.NewSource Test]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Config_Source_Adapters
+#graphify/document #graphify/INFERRED #community/Config_README_Examples

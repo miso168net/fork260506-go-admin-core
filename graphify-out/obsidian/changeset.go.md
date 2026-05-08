@@ -1,14 +1,14 @@
 ---
 source_file: "config/source/changeset.go"
 type: "code"
-community: "Config Changeset"
+community: "ChangeSet Type"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Changeset
+  - community/ChangeSet_Type
 ---
 
 # changeset.go
 
-#graphify/code #graphify/EXTRACTED #community/Config_Changeset
+#graphify/code #graphify/EXTRACTED #community/ChangeSet_Type

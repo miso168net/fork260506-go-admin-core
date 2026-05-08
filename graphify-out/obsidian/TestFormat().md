@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/file/format_test.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "File Writer / Format Tests"
 location: "L9"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Reader_&_Observe
+  - community/File_Writer_/_Format_Tests
 ---
 
 # TestFormat()
@@ -18,4 +18,4 @@ tags:
 - [[NewOptions()]] - `calls` [INFERRED]
 - [[format_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Reader_&_Observe
+#graphify/code #graphify/INFERRED #community/File_Writer_/_Format_Tests

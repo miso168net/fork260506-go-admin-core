@@ -1,12 +1,12 @@
 ---
 source_file: "logger/logrus.go"
 type: "code"
-community: "Logrus Adapter Methods"
+community: "Logger Logf/Debugf"
 location: "L262"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Logrus_Adapter_Methods
+  - community/Logger_Logf/Debugf
 ---
 
 # shouldSkipFrame()
@@ -15,4 +15,4 @@ tags:
 - [[.getEntryWithCaller()]] - `calls` [EXTRACTED]
 - [[logrus.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logrus_Adapter_Methods
+#graphify/code #graphify/EXTRACTED #community/Logger_Logf/Debugf

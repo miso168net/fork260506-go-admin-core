@@ -1,12 +1,12 @@
 ---
 source_file: "logger/logger.go"
 type: "code"
-community: "Configure & Settings"
+community: "Database Resolver Config"
 location: "L36"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Configure_&_Settings
+  - community/Database_Resolver_Config
 ---
 
 # Logf()
@@ -15,4 +15,4 @@ tags:
 - [[.Logf()_6]] - `calls` [INFERRED]
 - [[logger.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Configure_&_Settings
+#graphify/code #graphify/EXTRACTED #community/Database_Resolver_Config

@@ -1,12 +1,12 @@
 ---
 source_file: "logger/examples_test.go"
 type: "code"
-community: "Hash & Field Values"
+community: "Field Constructors"
 location: "L101"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Hash_&_Field_Values
+  - community/Field_Constructors
 ---
 
 # ExampleNewLogrusLogger_structuredFields()
@@ -23,4 +23,4 @@ tags:
 - [[UserID()]] - `calls` [INFERRED]
 - [[examples_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Hash_&_Field_Values
+#graphify/code #graphify/INFERRED #community/Field_Constructors

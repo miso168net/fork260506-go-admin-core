@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/http.go"
 type: "code"
-community: "Logger Performance Tests"
+community: "Async/Sampling/Sanitizer Tests"
 location: "L14"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Performance_Tests
+  - community/Async/Sampling/Sanitizer_Tests
 ---
 
 # Get()
@@ -17,4 +17,4 @@ tags:
 - [[.String()_27]] - `calls` [INFERRED]
 - [[http.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Performance_Tests
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer_Tests

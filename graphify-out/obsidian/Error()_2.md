@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/response/deprecated.go"
 type: "code"
-community: "API Context & Response"
+community: "antd_api Wrapper"
 location: "L17"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/API_Context_&_Response
+  - community/antd_api_Wrapper
 ---
 
 # Error()
@@ -15,4 +15,4 @@ tags:
 - [[.Error()_10]] - `calls` [INFERRED]
 - [[deprecated.go_4]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/API_Context_&_Response
+#graphify/code #graphify/EXTRACTED #community/antd_api_Wrapper

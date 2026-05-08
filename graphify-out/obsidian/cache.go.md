@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/config/cache.go"
 type: "code"
-community: "Storage & Response Models"
+community: "SDK Cache Config"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/SDK_Cache_Config
 ---
 
 # cache.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Cache]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/SDK_Cache_Config

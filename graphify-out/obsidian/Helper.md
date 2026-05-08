@@ -1,12 +1,12 @@
 ---
 source_file: "logger/helper.go"
 type: "code"
-community: "Logger Performance Tests"
+community: "Async/Sampling/Sanitizer Tests"
 location: "L21"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Logger_Performance_Tests
+  - community/Async/Sampling/Sanitizer_Tests
 ---
 
 # Helper
@@ -33,4 +33,4 @@ tags:
 - [[.kvToMap()]] - `method` [EXTRACTED]
 - [[helper.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logger_Performance_Tests
+#graphify/code #graphify/EXTRACTED #community/Async/Sampling/Sanitizer_Tests

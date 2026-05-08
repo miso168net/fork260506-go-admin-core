@@ -1,12 +1,12 @@
 ---
 source_file: "logger/README_ADVANCED.md"
 type: "document"
-community: "Logger Architecture Docs"
+community: "Logger Advanced Docs"
 location: "## 4. 组合使用"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Logger_Architecture_Docs
+  - community/Logger_Advanced_Docs
 ---
 
 # Combination order: Sanitizer -> Sampling -> Async
@@ -17,4 +17,4 @@ tags:
 - [[Sampling docs (per-window N initial then 1M)]] - `references` [EXTRACTED]
 - [[Sanitizer docs (maskhashremove strategies, default rules)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Logger_Architecture_Docs
+#graphify/document #graphify/EXTRACTED #community/Logger_Advanced_Docs

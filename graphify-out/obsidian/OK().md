@@ -1,12 +1,12 @@
 ---
 source_file: "response/antd/return.go"
 type: "code"
-community: "Storage & Response Models"
+community: "antd Response Methods"
 location: "L27"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Storage_&_Response_Models
+  - community/antd_Response_Methods
 ---
 
 # OK()
@@ -24,4 +24,4 @@ tags:
 - [[return.go]] - `contains` [EXTRACTED]
 - [[return.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Storage_&_Response_Models
+#graphify/code #graphify/INFERRED #community/antd_Response_Methods

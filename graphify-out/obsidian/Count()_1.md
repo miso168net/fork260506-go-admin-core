@@ -1,12 +1,12 @@
 ---
 source_file: "observe/audit/options.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Audit Options/Reader"
 location: "L75"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Config_Reader_&_Observe
+  - graphify/INFERRED
+  - community/Audit_Options/Reader
 ---
 
 # Count()
@@ -15,4 +15,4 @@ tags:
 - [[Count()]] - `calls` [INFERRED]
 - [[options.go_9]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Reader_&_Observe
+#graphify/code #graphify/INFERRED #community/Audit_Options/Reader

@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/file/options.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Default Config Tests"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Reader_&_Observe
+  - community/Default_Config_Tests
 ---
 
 # options.go
@@ -15,4 +15,4 @@ tags:
 - [[WithPath()]] - `contains` [EXTRACTED]
 - [[filePathKey]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Reader_&_Observe
+#graphify/code #graphify/EXTRACTED #community/Default_Config_Tests

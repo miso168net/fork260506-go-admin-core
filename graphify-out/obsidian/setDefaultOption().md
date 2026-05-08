@@ -1,12 +1,12 @@
 ---
 source_file: "server/listener/options.go"
 type: "code"
-community: "HTTP Server Options"
+community: "Listener & HTTP Server Options"
 location: "L24"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/HTTP_Server_Options
+  - community/Listener__HTTP_Server_Options
 ---
 
 # setDefaultOption()
@@ -18,4 +18,4 @@ tags:
 - [[NewReadyz()]] - `calls` [INFERRED]
 - [[options.go_11]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/HTTP_Server_Options
+#graphify/code #graphify/INFERRED #community/Listener__HTTP_Server_Options

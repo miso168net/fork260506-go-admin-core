@@ -1,12 +1,12 @@
 ---
 source_file: "logger/field.go"
 type: "code"
-community: "Config Core API"
+community: "Field Constructors"
 location: "L47"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Core_API
+  - community/Field_Constructors
 ---
 
 # Bool()
@@ -17,4 +17,4 @@ tags:
 - [[field.go]] - `contains` [EXTRACTED]
 - [[toZapFields()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Config_Core_API
+#graphify/code #graphify/INFERRED #community/Field_Constructors

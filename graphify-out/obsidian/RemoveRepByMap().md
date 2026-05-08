@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/utils/utils.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "SDK Utils (UUID/Hmac/Time)"
 location: "L81"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/SDK_Binding_&_Pagination
+  - community/SDK_Utils_UUID/Hmac/Time
 ---
 
 # RemoveRepByMap()
@@ -16,4 +16,4 @@ tags:
 - [[.Len()]] - `calls` [INFERRED]
 - [[utils.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/INFERRED #community/SDK_Utils_UUID/Hmac/Time

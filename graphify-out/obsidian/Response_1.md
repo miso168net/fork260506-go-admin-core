@@ -1,12 +1,12 @@
 ---
 source_file: "response/antd/model.go"
 type: "code"
-community: "Storage & Response Models"
+community: "antd Response Methods"
 location: "L17"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/antd_Response_Methods
 ---
 
 # Response
@@ -20,4 +20,4 @@ tags:
 - [[.SetTraceID()_1]] - `method` [EXTRACTED]
 - [[model.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/antd_Response_Methods

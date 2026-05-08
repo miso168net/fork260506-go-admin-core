@@ -6,7 +6,7 @@ location: "L11"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Logger_Setup_&_Adapter
+  - community/Logger_Setup__Adapter
 ---
 
 # Option
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[options.go_7]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logger_Setup_&_Adapter
+#graphify/code #graphify/EXTRACTED #community/Logger_Setup__Adapter

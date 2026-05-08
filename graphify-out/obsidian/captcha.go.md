@@ -1,12 +1,12 @@
 ---
 source_file: "captcha/captcha.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Captcha Driver"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Captcha_Driver
 ---
 
 # captcha.go
@@ -18,4 +18,4 @@ tags:
 - [[Verify()]] - `contains` [EXTRACTED]
 - [[configJsonBody]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/EXTRACTED #community/Captcha_Driver

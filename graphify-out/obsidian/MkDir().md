@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/utils/file.go"
 type: "code"
-community: "Configure & Settings"
+community: "Database Resolver Config"
 location: "L55"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Configure_&_Settings
+  - community/Database_Resolver_Config
 ---
 
 # MkDir()
@@ -15,4 +15,4 @@ tags:
 - [[IsNotExistMkDir()]] - `calls` [EXTRACTED]
 - [[file.go_3]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Configure_&_Settings
+#graphify/code #graphify/EXTRACTED #community/Database_Resolver_Config

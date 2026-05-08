@@ -1,12 +1,12 @@
 ---
 source_file: "server/listener/server.go"
 type: "code"
-community: "HTTP Server Options"
+community: "Listener & HTTP Server Options"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/HTTP_Server_Options
+  - community/Listener__HTTP_Server_Options
 ---
 
 # server.go
@@ -18,4 +18,4 @@ tags:
 - [[NewReadyz()]] - `contains` [EXTRACTED]
 - [[Server_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/HTTP_Server_Options
+#graphify/code #graphify/EXTRACTED #community/Listener__HTTP_Server_Options

@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/config/database.go"
 type: "code"
-community: "Database Resolver Config"
+community: "SDK Database Config"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Database_Resolver_Config
+  - community/SDK_Database_Config
 ---
 
 # database.go
@@ -15,4 +15,4 @@ tags:
 - [[DBResolverConfig]] - `contains` [EXTRACTED]
 - [[Database]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Database_Resolver_Config
+#graphify/code #graphify/EXTRACTED #community/SDK_Database_Config

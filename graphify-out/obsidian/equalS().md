@@ -1,12 +1,12 @@
 ---
 source_file: "config/default_test.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Default Config Tests"
 location: "L134"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Reader_&_Observe
+  - community/Default_Config_Tests
 ---
 
 # equalS()
@@ -16,4 +16,4 @@ tags:
 - [[TestConfigWatcherDirtyOverrite()]] - `calls` [EXTRACTED]
 - [[default_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Reader_&_Observe
+#graphify/code #graphify/EXTRACTED #community/Default_Config_Tests

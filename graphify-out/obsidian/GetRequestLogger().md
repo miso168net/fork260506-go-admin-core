@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/api/request_logger.go"
 type: "code"
-community: "API Context & Response"
+community: "antd_api Wrapper"
 location: "L16"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/API_Context_&_Response
+  - community/antd_api_Wrapper
 ---
 
 # GetRequestLogger()
@@ -23,4 +23,4 @@ tags:
 - [[WithFields()]] - `calls` [INFERRED]
 - [[request_logger.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/API_Context_&_Response
+#graphify/code #graphify/INFERRED #community/antd_api_Wrapper

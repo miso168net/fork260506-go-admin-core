@@ -1,12 +1,12 @@
 ---
 source_file: "config/loader/memory/memory.go"
 type: "code"
-community: "Config Core API"
+community: "Config Loader Memory"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/Config_Loader_Memory
 ---
 
 # memory.go
@@ -18,4 +18,4 @@ tags:
 - [[updateValue]] - `contains` [EXTRACTED]
 - [[watcher_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/Config_Loader_Memory

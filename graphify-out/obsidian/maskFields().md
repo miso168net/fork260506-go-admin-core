@@ -1,12 +1,12 @@
 ---
 source_file: "logger/pii_mask.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Masking Core (PII Mask)"
 location: "L76"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Masking_Core_PII_Mask
 ---
 
 # maskFields()
@@ -18,4 +18,4 @@ tags:
 - [[GetMasker()]] - `calls` [EXTRACTED]
 - [[pii_mask.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/EXTRACTED #community/Masking_Core_PII_Mask

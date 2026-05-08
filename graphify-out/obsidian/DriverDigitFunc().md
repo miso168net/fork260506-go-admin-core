@@ -1,12 +1,12 @@
 ---
 source_file: "captcha/captcha.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Captcha Driver"
 location: "L36"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Captcha_Driver
 ---
 
 # DriverDigitFunc()
@@ -16,4 +16,4 @@ tags:
 - [[New()_2]] - `calls` [INFERRED]
 - [[captcha.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/Captcha_Driver

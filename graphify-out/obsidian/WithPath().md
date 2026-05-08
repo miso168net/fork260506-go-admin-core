@@ -1,12 +1,12 @@
 ---
 source_file: "logger/writer/options.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Default Config Tests"
 location: "L28"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Reader_&_Observe
+  - community/Default_Config_Tests
 ---
 
 # WithPath()
@@ -27,4 +27,4 @@ tags:
 - [[options.go_7]] - `contains` [EXTRACTED]
 - [[options.go_8]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Reader_&_Observe
+#graphify/code #graphify/INFERRED #community/Default_Config_Tests

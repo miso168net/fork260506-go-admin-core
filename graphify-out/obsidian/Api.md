@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/antd_api/api.go"
 type: "code"
-community: "API Context & Response"
+community: "antd_api Wrapper"
 location: "L20"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/API_Context_&_Response
+  - community/antd_api_Wrapper
 ---
 
 # Api
@@ -27,4 +27,4 @@ tags:
 - [[.Translate()]] - `method` [EXTRACTED]
 - [[api.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/API_Context_&_Response
+#graphify/code #graphify/EXTRACTED #community/antd_api_Wrapper

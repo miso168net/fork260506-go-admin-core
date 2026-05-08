@@ -1,12 +1,12 @@
 ---
 source_file: "logger/pii_mask.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Deprecated/Logger Mixed Tests"
 location: "L45"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Deprecated/Logger_Mixed_Tests
 ---
 
 # newMaskingCore()
@@ -21,4 +21,4 @@ tags:
 - [[TestMaskingCore_WithFields()]] - `calls` [INFERRED]
 - [[pii_mask.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/Deprecated/Logger_Mixed_Tests

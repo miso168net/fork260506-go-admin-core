@@ -1,12 +1,12 @@
 ---
 source_file: "config/config.go"
 type: "code"
-community: "Config Core API"
+community: "TOML Encoder"
 location: "L68"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/TOML_Encoder
 ---
 
 # Bytes()
@@ -15,4 +15,4 @@ tags:
 - [[.Bytes()_3]] - `calls` [INFERRED]
 - [[config.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/TOML_Encoder

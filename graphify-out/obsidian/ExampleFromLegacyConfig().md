@@ -1,12 +1,12 @@
 ---
 source_file: "logger/examples_test.go"
 type: "code"
-community: "Logger Setup & Adapter"
+community: "Logger Examples"
 location: "L147"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Setup_&_Adapter
+  - community/Logger_Examples
 ---
 
 # ExampleFromLegacyConfig()
@@ -17,4 +17,4 @@ tags:
 - [[NewFromConfig()]] - `calls` [INFERRED]
 - [[examples_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Setup_&_Adapter
+#graphify/code #graphify/INFERRED #community/Logger_Examples

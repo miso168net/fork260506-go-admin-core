@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/options.go"
 type: "code"
-community: "Config Core API"
+community: "YAML Encoder + JSON Reader"
 location: "L20"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Core_API
+  - community/YAML_Encoder__JSON_Reader
 ---
 
 # NewOptions()
@@ -20,4 +20,4 @@ tags:
 - [[options.go_2]] - `contains` [EXTRACTED]
 - [[options.go_3]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Core_API
+#graphify/code #graphify/INFERRED #community/YAML_Encoder__JSON_Reader

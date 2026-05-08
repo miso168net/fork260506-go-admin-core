@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/runtime/queue.go"
 type: "code"
-community: "SDK Application Container"
+community: "SDK Runtime Queue"
 location: "L9"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/SDK_Application_Container
+  - community/SDK_Runtime_Queue
 ---
 
 # NewQueue()
@@ -19,4 +19,4 @@ tags:
 - [[TestNewMemoryQueue()]] - `calls` [INFERRED]
 - [[queue.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/SDK_Application_Container
+#graphify/code #graphify/INFERRED #community/SDK_Runtime_Queue

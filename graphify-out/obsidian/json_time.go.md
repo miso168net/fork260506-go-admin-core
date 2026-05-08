@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/utils/json_time.go"
 type: "code"
-community: "Config Core API"
+community: "JSON Reader & Preprocessor"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/JSON_Reader__Preprocessor
 ---
 
 # json_time.go
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[JSONTime]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/JSON_Reader__Preprocessor

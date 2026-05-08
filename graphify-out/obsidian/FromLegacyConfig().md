@@ -1,12 +1,12 @@
 ---
 source_file: "logger/config.go"
 type: "code"
-community: "Logger Setup & Adapter"
+community: "Logger Examples"
 location: "L388"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Logger_Setup_&_Adapter
+  - community/Logger_Examples
 ---
 
 # FromLegacyConfig()
@@ -17,4 +17,4 @@ tags:
 - [[SetupLogger()]] - `calls` [INFERRED]
 - [[config.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logger_Setup_&_Adapter
+#graphify/code #graphify/EXTRACTED #community/Logger_Examples

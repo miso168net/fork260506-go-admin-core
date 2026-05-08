@@ -1,12 +1,12 @@
 ---
 source_file: "logger/level.go"
 type: "code"
-community: "Logrus Adapter Methods"
+community: "Logger Logf/Debugf"
 location: "L88"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logrus_Adapter_Methods
+  - community/Logger_Logf/Debugf
 ---
 
 # Infof()
@@ -18,4 +18,4 @@ tags:
 - [[level.go]] - `contains` [EXTRACTED]
 - [[updateCallback()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Logrus_Adapter_Methods
+#graphify/code #graphify/INFERRED #community/Logger_Logf/Debugf

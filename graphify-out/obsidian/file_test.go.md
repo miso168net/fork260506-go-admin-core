@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/file/file_test.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Source Test Helpers"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Reader_&_Observe
+  - community/Source_Test_Helpers
 ---
 
 # file_test.go
@@ -15,4 +15,4 @@ tags:
 - [[TestConfig()]] - `contains` [EXTRACTED]
 - [[TestFile()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Reader_&_Observe
+#graphify/code #graphify/EXTRACTED #community/Source_Test_Helpers

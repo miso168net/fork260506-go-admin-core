@@ -1,12 +1,12 @@
 ---
 source_file: "logger/logrus.go"
 type: "code"
-community: "Logrus Adapter Methods"
+community: "Metrics Hook"
 location: "L551"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Logrus_Adapter_Methods
+  - community/Metrics_Hook
 ---
 
 # MetricsHook
@@ -16,4 +16,4 @@ tags:
 - [[.Levels()_3]] - `method` [EXTRACTED]
 - [[logrus.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logrus_Adapter_Methods
+#graphify/code #graphify/EXTRACTED #community/Metrics_Hook

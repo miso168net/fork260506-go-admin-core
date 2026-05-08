@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/memory/memory.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Source Test Helpers"
 location: "L81"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Reader_&_Observe
+  - community/Source_Test_Helpers
 ---
 
 # NewSource()
@@ -25,4 +25,4 @@ tags:
 - [[TestFlagsrc_ReadAll()]] - `calls` [INFERRED]
 - [[memory.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Reader_&_Observe
+#graphify/code #graphify/INFERRED #community/Source_Test_Helpers

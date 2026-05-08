@@ -1,12 +1,12 @@
 ---
 source_file: "config/reader/options.go"
 type: "code"
-community: "Logger Setup & Adapter"
+community: "Reader/Source Options"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Logger_Setup_&_Adapter
+  - community/Reader/Source_Options
 ---
 
 # options.go
@@ -17,4 +17,4 @@ tags:
 - [[Options_2]] - `contains` [EXTRACTED]
 - [[WithEncoder()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logger_Setup_&_Adapter
+#graphify/code #graphify/EXTRACTED #community/Reader/Source_Options

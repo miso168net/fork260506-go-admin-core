@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/api/translate.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "Cache/Captcha/Memory Tests Mix"
 location: "L23"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/Cache/Captcha/Memory_Tests_Mix
 ---
 
 # transInit()
@@ -16,4 +16,4 @@ tags:
 - [[New()_2]] - `calls` [INFERRED]
 - [[translate.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/Cache/Captcha/Memory_Tests_Mix

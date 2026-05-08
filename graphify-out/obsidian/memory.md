@@ -1,12 +1,12 @@
 ---
 source_file: "storage/cache/memory.go"
 type: "code"
-community: "Storage & Response Models"
+community: "Cache Memory Operations"
 location: "L24"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/Cache_Memory_Operations
 ---
 
 # Memory
@@ -27,4 +27,4 @@ tags:
 - [[.setItem()]] - `method` [EXTRACTED]
 - [[memory.go_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/Cache_Memory_Operations

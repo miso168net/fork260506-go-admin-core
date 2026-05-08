@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/translate.go"
 type: "code"
-community: "API Context & Response"
+community: "antd_api Wrapper"
 location: "L7"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/API_Context_&_Response
+  - community/antd_api_Wrapper
 ---
 
 # Translate()
@@ -18,4 +18,4 @@ tags:
 - [[Field]] - `calls` [INFERRED]
 - [[translate.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/API_Context_&_Response
+#graphify/code #graphify/INFERRED #community/antd_api_Wrapper

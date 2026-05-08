@@ -1,12 +1,12 @@
 ---
 source_file: "logger/async_test.go"
 type: "code"
-community: "Logger Performance Tests"
+community: "Async/Sampling/Sanitizer Tests"
 location: "L389"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Performance_Tests
+  - community/Async/Sampling/Sanitizer_Tests
 ---
 
 # TestAsyncLogger_BlockPolicy()
@@ -24,4 +24,4 @@ tags:
 - [[WithOutput()]] - `calls` [INFERRED]
 - [[async_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Performance_Tests
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer_Tests

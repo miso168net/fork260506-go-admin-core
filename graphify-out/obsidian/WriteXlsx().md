@@ -1,12 +1,12 @@
 ---
 source_file: "tools/utils/excel.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Excel Writer"
 location: "L13"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/SDK_Binding_&_Pagination
+  - community/Excel_Writer
 ---
 
 # WriteXlsx()
@@ -18,4 +18,4 @@ tags:
 - [[Field]] - `calls` [INFERRED]
 - [[excel.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/INFERRED #community/Excel_Writer

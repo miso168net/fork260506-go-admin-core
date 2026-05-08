@@ -1,12 +1,12 @@
 ---
 source_file: "config/options.go"
 type: "code"
-community: "Configure & Settings"
+community: "Config Settings & Multi-DB"
 location: "L31"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Configure_&_Settings
+  - community/Config_Settings__Multi-DB
 ---
 
 # WithEntity()
@@ -15,4 +15,4 @@ tags:
 - [[Setup()_1]] - `calls` [INFERRED]
 - [[options.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Configure_&_Settings
+#graphify/code #graphify/EXTRACTED #community/Config_Settings__Multi-DB

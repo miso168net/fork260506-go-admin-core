@@ -1,12 +1,12 @@
 ---
 source_file: "observability/audit/deprecated.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Audit Options/Reader"
 location: "L71"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Reader_&_Observe
+  - community/Audit_Options/Reader
 ---
 
 # Count()
@@ -15,4 +15,4 @@ tags:
 - [[Count()_1]] - `calls` [INFERRED]
 - [[deprecated.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Reader_&_Observe
+#graphify/code #graphify/EXTRACTED #community/Audit_Options/Reader

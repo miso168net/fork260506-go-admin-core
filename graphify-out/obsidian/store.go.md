@@ -1,12 +1,12 @@
 ---
 source_file: "captcha/store.go"
 type: "code"
-community: "Storage & Response Models"
+community: "Captcha Cache Store"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Storage_&_Response_Models
+  - community/Captcha_Cache_Store
 ---
 
 # store.go
@@ -15,4 +15,4 @@ tags:
 - [[NewCacheStore()]] - `contains` [EXTRACTED]
 - [[cacheStore]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Storage_&_Response_Models
+#graphify/code #graphify/EXTRACTED #community/Captcha_Cache_Store

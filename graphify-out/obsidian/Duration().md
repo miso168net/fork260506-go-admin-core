@@ -1,12 +1,12 @@
 ---
 source_file: "logger/field.go"
 type: "code"
-community: "Hash & Field Values"
+community: "Field Constructors"
 location: "L55"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Hash_&_Field_Values
+  - community/Field_Constructors
 ---
 
 # Duration()
@@ -21,4 +21,4 @@ tags:
 - [[field.go]] - `contains` [EXTRACTED]
 - [[toZapFields()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Hash_&_Field_Values
+#graphify/code #graphify/INFERRED #community/Field_Constructors

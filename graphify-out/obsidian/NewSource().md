@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/file/file.go"
 type: "code"
-community: "Config Core API"
+community: "File Source + GORM Logger"
 location: "L61"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Core_API
+  - community/File_Source__GORM_Logger
 ---
 
 # NewSource()
@@ -16,4 +16,4 @@ tags:
 - [[NewOptions()]] - `calls` [INFERRED]
 - [[file.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Core_API
+#graphify/code #graphify/INFERRED #community/File_Source__GORM_Logger

@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/utils/utils.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "SDK Utils (UUID/Hmac/Time)"
 location: "L15"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/SDK_Binding_&_Pagination
+  - community/SDK_Utils_UUID/Hmac/Time
 ---
 
 # Hmac()
@@ -17,4 +17,4 @@ tags:
 - [[New()_2]] - `calls` [INFERRED]
 - [[utils.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/INFERRED #community/SDK_Utils_UUID/Hmac/Time

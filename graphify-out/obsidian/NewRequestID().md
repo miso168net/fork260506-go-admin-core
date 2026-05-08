@@ -1,12 +1,12 @@
 ---
 source_file: "tools/utils/grpc_header.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "gRPC Header Helpers"
 location: "L42"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Captcha_&_Preprocessor_Tools
+  - graphify/INFERRED
+  - community/gRPC_Header_Helpers
 ---
 
 # NewRequestID()
@@ -17,4 +17,4 @@ tags:
 - [[New()_2]] - `calls` [INFERRED]
 - [[grpc_header.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/INFERRED #community/gRPC_Header_Helpers

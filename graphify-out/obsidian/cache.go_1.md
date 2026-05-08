@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/runtime/cache.go"
 type: "code"
-community: "SDK Application Container"
+community: "SDK Runtime Cache"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SDK_Application_Container
+  - community/SDK_Runtime_Cache
 ---
 
 # cache.go
@@ -15,4 +15,4 @@ tags:
 - [[Cache_1]] - `contains` [EXTRACTED]
 - [[NewCache()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Application_Container
+#graphify/code #graphify/EXTRACTED #community/SDK_Runtime_Cache

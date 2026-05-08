@@ -1,12 +1,12 @@
 ---
 source_file: "logger/caller_test.go"
 type: "code"
-community: "Logger Performance Tests"
+community: "Async/Sampling/Sanitizer Tests"
 location: "L78"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Performance_Tests
+  - community/Async/Sampling/Sanitizer_Tests
 ---
 
 # TestLogrusCallerWithHelper()
@@ -21,4 +21,4 @@ tags:
 - [[caller_test.go]] - `contains` [EXTRACTED]
 - [[helperFunction()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Performance_Tests
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer_Tests

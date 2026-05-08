@@ -1,12 +1,12 @@
 ---
 source_file: "logger/options.go"
 type: "code"
-community: "Sampling & Extended Logger"
+community: "Async/Sampling/Sanitizer/Zap Combinators"
 location: "L185"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Sampling_&_Extended_Logger
+  - community/Async/Sampling/Sanitizer/Zap_Combinators
 ---
 
 # DefaultOptions()
@@ -16,4 +16,4 @@ tags:
 - [[NewZapLogger()]] - `calls` [INFERRED]
 - [[options.go_7]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Sampling_&_Extended_Logger
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer/Zap_Combinators

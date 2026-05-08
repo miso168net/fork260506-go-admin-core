@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/file.go"
 type: "code"
-community: "File Utils & WebSocket"
+community: "File / Path Utils"
 location: "L93"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/File_Utils_&_WebSocket
+  - community/File_/_Path_Utils
 ---
 
 # FileMonitoringById()
@@ -18,4 +18,4 @@ tags:
 - [[Open()]] - `calls` [INFERRED]
 - [[file.go_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/File_Utils_&_WebSocket
+#graphify/code #graphify/INFERRED #community/File_/_Path_Utils

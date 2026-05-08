@@ -5,8 +5,8 @@ community: "Errors & File Watcher"
 location: "L38"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Errors_&_File_Watcher
+  - graphify/INFERRED
+  - community/Errors__File_Watcher
 ---
 
 # Parse()
@@ -19,4 +19,4 @@ tags:
 - [[errors.go]] - `contains` [EXTRACTED]
 - [[initTestFlags()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Errors_&_File_Watcher
+#graphify/code #graphify/INFERRED #community/Errors__File_Watcher

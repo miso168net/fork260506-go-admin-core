@@ -1,12 +1,12 @@
 ---
 source_file: "logger/examples_test.go"
 type: "code"
-community: "Hash & Field Values"
+community: "Async/Sampling/Sanitizer Tests"
 location: "L188"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Hash_&_Field_Values
+  - community/Async/Sampling/Sanitizer_Tests
 ---
 
 # BenchmarkLogrusLogger()
@@ -20,4 +20,4 @@ tags:
 - [[WithLevel()]] - `calls` [INFERRED]
 - [[examples_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Hash_&_Field_Values
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer_Tests

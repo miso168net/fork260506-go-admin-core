@@ -1,12 +1,12 @@
 ---
 source_file: "config/source/file/file.go"
 type: "code"
-community: "Config Core API"
+community: "File Source + GORM Logger"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Core_API
+  - community/File_Source__GORM_Logger
 ---
 
 # file.go
@@ -15,4 +15,4 @@ tags:
 - [[NewSource()]] - `contains` [EXTRACTED]
 - [[file]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Core_API
+#graphify/code #graphify/EXTRACTED #community/File_Source__GORM_Logger

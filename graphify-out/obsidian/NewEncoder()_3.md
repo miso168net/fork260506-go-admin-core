@@ -1,12 +1,12 @@
 ---
 source_file: "config/encoder/yaml/yaml.go"
 type: "code"
-community: "Config Core API"
+community: "YAML Encoder + JSON Reader"
 location: "L22"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Core_API
+  - community/YAML_Encoder__JSON_Reader
 ---
 
 # NewEncoder()
@@ -16,4 +16,4 @@ tags:
 - [[NewReader()]] - `calls` [INFERRED]
 - [[yaml.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Core_API
+#graphify/code #graphify/INFERRED #community/YAML_Encoder__JSON_Reader

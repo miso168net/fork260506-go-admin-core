@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/jwtauth/deprecated.go"
 type: "code"
-community: "Captcha & Preprocessor Tools"
+community: "JWT Deprecated Aliases"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Captcha_&_Preprocessor_Tools
+  - community/JWT_Deprecated_Aliases
 ---
 
 # deprecated.go
@@ -17,4 +17,4 @@ tags:
 - [[GetToken()_1]] - `contains` [EXTRACTED]
 - [[New()_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Captcha_&_Preprocessor_Tools
+#graphify/code #graphify/EXTRACTED #community/JWT_Deprecated_Aliases

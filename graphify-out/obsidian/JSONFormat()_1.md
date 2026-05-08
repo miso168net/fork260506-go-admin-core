@@ -1,12 +1,12 @@
 ---
 source_file: "observe/audit/log.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Audit FormatFunc & Stream"
 location: "L69"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Reader_&_Observe
+  - community/Audit_FormatFunc__Stream
 ---
 
 # JSONFormat()
@@ -16,4 +16,4 @@ tags:
 - [[JSONFormat()]] - `calls` [INFERRED]
 - [[log.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Reader_&_Observe
+#graphify/code #graphify/INFERRED #community/Audit_FormatFunc__Stream

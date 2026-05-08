@@ -1,12 +1,12 @@
 ---
 source_file: "tools/search/query.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Search Field/Tag DSL"
 location: "L30"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/SDK_Binding_&_Pagination
+  - graphify/INFERRED
+  - community/Search_Field/Tag_DSL
 ---
 
 # ResolveSearchQuery()
@@ -19,4 +19,4 @@ tags:
 - [[pgSql()]] - `calls` [EXTRACTED]
 - [[query.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/INFERRED #community/Search_Field/Tag_DSL

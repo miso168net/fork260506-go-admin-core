@@ -1,12 +1,12 @@
 ---
 source_file: "tools/database/type.go"
 type: "code"
-community: "Tools Configure"
+community: "DB Configure Helpers"
 location: "L16"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Tools_Configure
+  - community/DB_Configure_Helpers
 ---
 
 # ResolverConfigure
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[type.go_4]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Tools_Configure
+#graphify/code #graphify/EXTRACTED #community/DB_Configure_Helpers

@@ -1,12 +1,12 @@
 ---
 source_file: "config/loader/memory/memory.go"
 type: "code"
-community: "Config Core API"
+community: "Config Loader Memory"
 location: "L430"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Config_Core_API
+  - community/Config_Loader_Memory
 ---
 
 # NewLoader()
@@ -20,4 +20,4 @@ tags:
 - [[NewReader()]] - `calls` [INFERRED]
 - [[memory.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Config_Core_API
+#graphify/code #graphify/INFERRED #community/Config_Loader_Memory

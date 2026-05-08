@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/http.go"
 type: "code"
-community: "Logger Performance Tests"
+community: "Async/Sampling/Sanitizer Tests"
 location: "L39"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Logger_Performance_Tests
+  - graphify/INFERRED
+  - community/Async/Sampling/Sanitizer_Tests
 ---
 
 # Post()
@@ -15,4 +15,4 @@ tags:
 - [[.Close()_3]] - `calls` [INFERRED]
 - [[http.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logger_Performance_Tests
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer_Tests

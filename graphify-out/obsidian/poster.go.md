@@ -1,12 +1,12 @@
 ---
 source_file: "tools/poster/poster.go"
 type: "code"
-community: "Image & Context Tools"
+community: "Logger Context + Poster Image"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Image_&_Context_Tools
+  - community/Logger_Context__Poster_Image
 ---
 
 # poster.go
@@ -24,4 +24,4 @@ tags:
 - [[Pt]] - `contains` [EXTRACTED]
 - [[Rect]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Image_&_Context_Tools
+#graphify/code #graphify/EXTRACTED #community/Logger_Context__Poster_Image

@@ -1,12 +1,12 @@
 ---
 source_file: "observe/audit/options.go"
 type: "code"
-community: "Config Reader & Observe"
+community: "Audit Options/Reader"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_Reader_&_Observe
+  - community/Audit_Options/Reader
 ---
 
 # options.go
@@ -22,4 +22,4 @@ tags:
 - [[Since()_1]] - `contains` [EXTRACTED]
 - [[Size()_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_Reader_&_Observe
+#graphify/code #graphify/EXTRACTED #community/Audit_Options/Reader

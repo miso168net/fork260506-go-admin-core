@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/utils/file.go"
 type: "code"
-community: "Configure & Settings"
+community: "Database Resolver Config"
 location: "L36"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Configure_&_Settings
+  - community/Database_Resolver_Config
 ---
 
 # CheckPermission()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[file.go_3]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Configure_&_Settings
+#graphify/code #graphify/EXTRACTED #community/Database_Resolver_Config

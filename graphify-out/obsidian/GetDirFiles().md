@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/utils/utils.go"
 type: "code"
-community: "SDK Binding & Pagination"
+community: "Default Config Tests"
 location: "L52"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/SDK_Binding_&_Pagination
+  - community/Default_Config_Tests
 ---
 
 # GetDirFiles()
@@ -17,4 +17,4 @@ tags:
 - [[Name()_1]] - `calls` [INFERRED]
 - [[utils.go_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/SDK_Binding_&_Pagination
+#graphify/code #graphify/INFERRED #community/Default_Config_Tests

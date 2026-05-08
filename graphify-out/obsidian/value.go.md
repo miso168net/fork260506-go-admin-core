@@ -1,12 +1,12 @@
 ---
 source_file: "config/value.go"
 type: "code"
-community: "Hash & Field Values"
+community: "Config Value Types"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Hash_&_Field_Values
+  - community/Config_Value_Types
 ---
 
 # value.go
@@ -15,4 +15,4 @@ tags:
 - [[newValue()]] - `contains` [EXTRACTED]
 - [[value]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Hash_&_Field_Values
+#graphify/code #graphify/EXTRACTED #community/Config_Value_Types

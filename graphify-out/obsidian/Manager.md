@@ -1,12 +1,12 @@
 ---
 source_file: "sdk/pkg/ws/ws.go"
 type: "code"
-community: "File Utils & WebSocket"
+community: "File / Path Utils"
 location: "L18"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/File_Utils_&_WebSocket
+  - community/File_/_Path_Utils
 ---
 
 # Manager
@@ -28,4 +28,4 @@ tags:
 - [[.WsClient()]] - `method` [EXTRACTED]
 - [[ws.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/File_Utils_&_WebSocket
+#graphify/code #graphify/EXTRACTED #community/File_/_Path_Utils

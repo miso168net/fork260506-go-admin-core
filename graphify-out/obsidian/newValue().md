@@ -1,12 +1,12 @@
 ---
 source_file: "config/value.go"
 type: "code"
-community: "Hash & Field Values"
+community: "Config Value Types"
 location: "L11"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Hash_&_Field_Values
+  - community/Config_Value_Types
 ---
 
 # newValue()
@@ -16,4 +16,4 @@ tags:
 - [[New()_2]] - `calls` [INFERRED]
 - [[value.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Hash_&_Field_Values
+#graphify/code #graphify/INFERRED #community/Config_Value_Types

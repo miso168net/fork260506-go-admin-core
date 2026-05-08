@@ -1,12 +1,12 @@
 ---
 source_file: "logger/level.go"
 type: "code"
-community: "Logrus Adapter Methods"
+community: "Level Functions"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Logrus_Adapter_Methods
+  - community/Level_Functions
 ---
 
 # level.go
@@ -28,4 +28,4 @@ tags:
 - [[Warn()]] - `contains` [EXTRACTED]
 - [[Warnf()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Logrus_Adapter_Methods
+#graphify/code #graphify/EXTRACTED #community/Level_Functions

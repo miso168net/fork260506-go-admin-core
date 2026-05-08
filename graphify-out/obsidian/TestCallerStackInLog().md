@@ -1,12 +1,12 @@
 ---
 source_file: "logger/caller_debug_test.go"
 type: "code"
-community: "Logger Performance Tests"
+community: "Async/Sampling/Sanitizer Tests"
 location: "L45"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Logger_Performance_Tests
+  - community/Async/Sampling/Sanitizer_Tests
 ---
 
 # TestCallerStackInLog()
@@ -17,4 +17,4 @@ tags:
 - [[WithLevel()]] - `calls` [INFERRED]
 - [[caller_debug_test.go]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Logger_Performance_Tests
+#graphify/code #graphify/INFERRED #community/Async/Sampling/Sanitizer_Tests
